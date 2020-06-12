@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Prist | Gatsby & Prismic Starter`,
+    title: `Himanshu Goel`,
         description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
-    author: `Marguerite Roth | marguerite.io`,
+    author: `Himanshu Goel | himanshugoel.in`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
